@@ -1,0 +1,19 @@
+.App {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font-family: "Megrim";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  /* #FFEB3B; */
+  height: 100vh;
+}
+
+object {
+  width: 500px;
+  height: auto;
+}
+
