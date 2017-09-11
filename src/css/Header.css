@@ -10,7 +10,7 @@ header {
   align-items: center;
   background: #ABC5C8;
   height: 100vh;
-  animation: header-to-top 1.3s 4.2s ease-out forwards;
+  animation: header-to-top 1.1s 4.2s ease-out forwards;
 }
 
 object {
