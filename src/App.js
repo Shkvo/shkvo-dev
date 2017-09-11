@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import logo from './Shkvo.svg';
 import { Link ,Switch, Route } from 'react-router-dom';
-import greet from './logot.svg';
 import './css/keyframes.css';
 import './css/fonts.css';
 import './css/App.css';
