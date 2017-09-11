@@ -1,18 +1,20 @@
 import React, { Component } from 'react';
-import logo from './Shkvo.svg';
+import Header from './Header';
+import Content from './Content';
 import { Link ,Switch, Route } from 'react-router-dom';
 import './css/keyframes.css';
 import './css/fonts.css';
-import './css/App.css';
+
 
 class App extends Component {
-  render() {
+	render() {
 		return (
-			<div className="App">
-					<object id="f1" data={logo} type="image/svg+xml" aria-label="logo"></object>
+			<div className="app">
+				<Header />
+				<Content />
 			</div>
 		);
-  }
+	}
 }
 
 export default App;

@@ -9,6 +9,7 @@
                     opacity: 1;
                 }
             }
+
             @keyframes tangle{
                 0%{
                     transform: translate(0px,0px);
@@ -27,6 +28,13 @@
                 }
             }
 
+            @keyframes paint-hover{
+                100%{
+                    stroke: #F6BABB;
+                    stroke-dashoffset: 0;
+                }
+            }
+
             @keyframes paint{
                 100%{
                     stroke: #fff;
@@ -40,6 +48,7 @@
                     fill: #fff;
                 }
             }
+
             @keyframes hidding{
                 100%{
                     opacity: 0;
@@ -47,11 +56,8 @@
             }
 
             @keyframes scaling{
-                40%{
-                    transform: scale(1.01);
-                }
                 100%{
-                    transform: scale(1);
+                    transform: scale(0.6);
                 }
             }
 
@@ -76,6 +82,15 @@
                     paint 3s ease-in-out forwards,
                     fill 1.3s 2.2s ease-in-out forwards;
             }
+
+            .logo-group{
+                transform-origin: 50% 50%;
+                animation: scaling 1.3s 4.2s ease-out forwards;
+            }
+            <!-- .logo-group:hover .cls-2{
+                fill: #7c9497;
+            } -->
+            <!-- #F6BABB -->
         </style>
     </defs>
     <title>Shkvo</title>
