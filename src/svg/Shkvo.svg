@@ -85,7 +85,7 @@
 
             .logo-group{
                 transform-origin: 50% 50%;
-                animation: scaling 1.1s 4.2s ease-out forwards;
+                animation: scaling 1.1s 4.2s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
             }
             <!-- .logo-group:hover .cls-2{
                 fill: #7c9497;
