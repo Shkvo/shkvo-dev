@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './svg/Shkvo.svg';
 import './css/Header.css';
-import { Link, Switch, Route } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import f from './svg/f.svg';
 import g from './svg/g+.svg';
 import vk from './svg/vk.svg';
