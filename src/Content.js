@@ -1,10 +1,9 @@
 import React from 'react';
-import { Link, Switch, Route } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 import About from'./About';
 import Projects from './Projects';
 import Contact from './Contact';
 import './css/Content.css';
-import beardMan from './img/beard-man.jpg'
 
 const Content = () => (
     <section>

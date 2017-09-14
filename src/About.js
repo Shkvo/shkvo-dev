@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './css/Content.css';
 import beardMan from './img/beard-man.jpg'
 
@@ -13,9 +12,9 @@ const About = () => (
             <h1>Hi, I'm Dima,</h1>
             <span>a frontend developer.</span>
             <p>
-                I'm from Lviv, Ukraine. I study at National University "Lviv Politechnic" on computer science.
-                I chose the frontend, because I like to create interactive user interfaces, but in general, 
-                I like to create something beautiful. The React and everything connected with it helps me in this.
+                I'm from Lviv, Ukraine. I study at National University "Lviv Politechnic" on computer science. 
+                I chose the frontend, because I like to create interactive user interfaces, and, in general, 
+                I like to create something beautiful. In this, the <b>React</b> helps me and everything connected with it.
             </p>
         </div>
     </div>

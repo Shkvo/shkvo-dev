@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import Content from './Content';
-import { Link ,Switch, Route } from 'react-router-dom';
 import './css/keyframes.css';
 import './css/fonts.css';
 
