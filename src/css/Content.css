@@ -51,3 +51,10 @@ section{
     font-weight: 900;
     font-size: 35px;
 }
+.about-text p {
+    
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 900;
+    font-size: 25px;
+    padding: 0 55px;
+}
