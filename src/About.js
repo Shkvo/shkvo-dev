@@ -10,10 +10,12 @@ const About = () => (
             <div className="beard-man-overlay"></div>
         </div>
         <div className="about-text">
-            <h1>Hi, i'm Dima,</h1>
+            <h1>Hi, I'm Dima,</h1>
             <span>a frontend developer.</span>
             <p>
                 I'm from Lviv, Ukraine. I study at National University "Lviv Politechnic" on computer science.
+                I chose the frontend, because I like to create interactive user interfaces, but in general, 
+                I like to create something beautiful. The React and everything connected with it helps me in this.
             </p>
         </div>
     </div>

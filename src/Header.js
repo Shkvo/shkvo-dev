@@ -18,7 +18,7 @@ const Header =  () => (
         {/* <img className="header-el" id="f1" src={logo} /> */}
         <object className="header-el" id="f1" data={logo} type="image/svg+xml" aria-label="logo"></object>
         <div className="header-el socials">
-            <a className="linkedin" target="_blanc" href="https://www.linkedin.com/in/dima-bazanov-8bb743112/">
+            <a className="linkedin" target="_blanc" href="https://www.linkedin.com/in/shkvo/">
                 <img src={lIn} alt="linkedin"/>
             </a>
             <a className="facebook" target="_blanc" href="https://www.facebook.com/dima.shkvo">
