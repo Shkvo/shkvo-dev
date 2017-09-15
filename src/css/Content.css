@@ -17,7 +17,7 @@ section{
     height: 100%;
 }
 .beard-man img{
-    height: 100vh;
+    height: 100%;
 }
 
 .beard-man-overlay{
@@ -33,7 +33,7 @@ section{
     width: 60%;
     color: rgba(0,0,0,0.5);
     font-weight: 900;
-    font-size: 35px;
+    font-size: 1.2em;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,12 +49,11 @@ section{
 .about-text span {
     color: rgba(0, 0, 0, 0.3);
     font-weight: 900;
-    font-size: 35px;
+    font-size: 2em;
 }
 .about-text p {
-    
     color: rgba(0, 0, 0, 0.5);
     font-weight: 900;
-    font-size: 25px;
+    font-size: 1.2em;
     padding: 0 55px;
 }

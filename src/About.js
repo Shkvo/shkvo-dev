@@ -14,7 +14,7 @@ const About = () => (
             <p>
                 I'm from Lviv, Ukraine. I study at National University "Lviv Politechnic" on computer science. 
                 I chose the frontend, because I like to create interactive user interfaces, and, in general, 
-                I like to create something beautiful. In this, the <b>React</b> helps me and everything connected with it.
+                I like to create something beautiful.<br/><b>React</b> and everything connected with it helps me in this.
             </p>
         </div>
     </div>

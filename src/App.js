@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Header from './Header';
 import Content from './Content';
 import './css/keyframes.css';
+import './css/media.css';
 import './css/fonts.css';
 
 
@@ -10,7 +11,7 @@ class App extends Component {
 		return (
 			<div className="app">
 				<Header />
-				<Content />
+				{/* <Content /> */}
 			</div>
 		);
 	}
